@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Bank Statement OCR & Insights",
+  "description": "An application that uses Gemini to extract, categorize, and summarize transactions from uploaded bank statement files (PDFs or images). It provides financial insights and allows exporting data to CSV.",
+  "requestFramePermissions": []
+}
